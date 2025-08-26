@@ -1,0 +1,27 @@
+{
+  "name": "doe-media",
+  "version": "1.0.0",
+  "description": "[![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)\r [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./assets/input.css -o ./assets/output.css --watch",
+    "build": "tailwindcss -i ./assets/input.css -o ./assets/output.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedson77/DOE-Media.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joedson77/DOE-Media/issues"
+  },
+  "homepage": "https://github.com/joedson77/DOE-Media#readme"
+}
