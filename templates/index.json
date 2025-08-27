@@ -121,7 +121,7 @@
         "button_aRwkXn": {
           "type": "button",
           "settings": {
-            "button_label": "inquire now",
+            "button_label": "INQUIRE NOW",
             "button_link": "shopify://collections",
             "button_style_secondary": false
           }
@@ -178,7 +178,7 @@
         "text_xkqJFU": {
           "type": "text",
           "settings": {
-            "text": "Gifting with Purpose",
+            "text": "<strong>Gifting with Purpose</strong>",
             "text_style": "caption-with-letter-spacing"
           }
         },
