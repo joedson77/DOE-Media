@@ -175,6 +175,13 @@
     "image_banner_nz4QyD": {
       "type": "image-banner",
       "blocks": {
+        "text_xkqJFU": {
+          "type": "text",
+          "settings": {
+            "text": "Gifting with Purpose",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
         "heading_wAcETg": {
           "type": "heading",
           "settings": {
@@ -202,6 +209,7 @@
         }
       },
       "block_order": [
+        "text_xkqJFU",
         "heading_wAcETg",
         "text_qEiXgX",
         "buttons_PMftmP"
