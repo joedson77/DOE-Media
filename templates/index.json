@@ -163,7 +163,7 @@
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "desktop_content_alignment": "left",
         "show_text_box": false,
         "color_scheme": "scheme-b2896d1f-bd52-440f-856a-9de1adbbcc1d",
