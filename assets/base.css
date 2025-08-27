@@ -2094,6 +2094,11 @@ input[type='checkbox'] {
   height: 100%;
 }
 
+h3.text-xs.card__heading.h2 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .utility-bar--bottom-border {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
