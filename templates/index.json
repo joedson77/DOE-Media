@@ -86,7 +86,35 @@
         "text_GgeLgT": {
           "type": "text",
           "settings": {
-            "text": "<p>Leave a lasting impression with homecare gifts that speak volumes—crafted with intention, clean formulations, and custom fragrance blends. <br/><br/></p>",
+            "text": "<p>Leave a lasting impression with homecare gifts that speak volumes—crafted with intention, clean formulations, and custom fragrance blends. </p>",
+            "text_style": "body"
+          }
+        },
+        "text_zgeBA8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Choose Your Gift Set</strong><br/><br/>Select from our curated bundles or build a custom assortment—perfect for clients, new hires, or team celebrations. Each set is thoughtfully composed with our most loved luxury homecare products.</p>",
+            "text_style": "body"
+          }
+        },
+        "text_QBAg8T": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Add Your Personal Touch</strong><br/><br/>Include a note, custom ribbon, or branded card. Every detail can be tailored to reflect your company’s voice and values.</p>",
+            "text_style": "body"
+          }
+        },
+        "text_CrKkmG": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Gifts That Arrive Ready to Impress</strong><br/><br/>Each order is hand-packed with care, beautifully boxed, and shipped directly to your recipients. No extra wrapping needed—just a perfect unboxing experience, every time.</p>",
+            "text_style": "body"
+          }
+        },
+        "text_PBzTXF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Cleaner Gifting for a Cleaner Planet<br/></strong><br/>Every product is made with non-toxic, vegan, and cruelty-free ingredients—formulated with organic fragrance oils and consciously packaged.</p>",
             "text_style": "body"
           }
         },
@@ -103,6 +131,10 @@
         "caption_deDMmQ",
         "heading_GBEH8F",
         "text_GgeLgT",
+        "text_zgeBA8",
+        "text_QBAg8T",
+        "text_CrKkmG",
+        "text_PBzTXF",
         "button_aRwkXn"
       ],
       "name": "t:sections.image-with-text.presets.name",
@@ -128,7 +160,7 @@
       "settings": {
         "blog": "",
         "post_limit": 3,
-        "heading": "elEvAting eveRyday rOutines",
+        "heading": "<strong>elEvAting eveRyday rOutines</strong>",
         "heading_size": "h0",
         "columns_desktop": 4,
         "show_view_all": true,
