@@ -257,7 +257,7 @@
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "collection": "frontpage",
-        "products_to_show": 4,
+        "products_to_show": 6,
         "title": "<strong>DiscOveR our beSt-selLing sets for home and body.</strong>",
         "heading_size": "hxl",
         "description": "",
