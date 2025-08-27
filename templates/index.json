@@ -12,11 +12,18 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "text_9fCaAk": {
+          "type": "text",
+          "settings": {
+            "text": "Luxury homecare gifts",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
             "heading": "ElEvAted Gifting for Refined TaStes",
-            "heading_size": "h0"
+            "heading_size": "hxxl"
           }
         },
         "text": {
@@ -39,6 +46,7 @@
         }
       },
       "block_order": [
+        "text_9fCaAk",
         "heading",
         "text",
         "button"
