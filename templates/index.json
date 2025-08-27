@@ -68,6 +68,14 @@
     "image_with_text_CqjktB": {
       "type": "image-with-text",
       "blocks": {
+        "caption_deDMmQ": {
+          "type": "caption",
+          "settings": {
+            "caption": "how it works",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_GBEH8F": {
           "type": "heading",
           "settings": {
@@ -92,6 +100,7 @@
         }
       },
       "block_order": [
+        "caption_deDMmQ",
         "heading_GBEH8F",
         "text_GgeLgT",
         "button_aRwkXn"
