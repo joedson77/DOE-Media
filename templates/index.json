@@ -330,8 +330,9 @@
         "row_4xMFbg": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/image_3_f23174dd-c59d-43e4-9bdf-e5b4d5c8bee7.png",
             "caption": "LETTER FROM COURTENEY",
-            "heading": "“I wanted to create something that not only works but looks beautiful on your counter. Homecourt is about elevating everyday routines into something special.”",
+            "heading": "<em>“I wanted to create something that not only works but looks beautiful on your counter. Homecourt is about elevating everyday routines into something special.”</em>",
             "text": "<p>Leave a lasting impression with homecare gifts that speak volumes—crafted with intention, clean formulations, and custom fragrance blends.  Leave a lasting impression with homecare gifts that speak volumes—crafted with intention, clean formulations, and custom fragrance blends.  <br/><br/></p>",
             "button_label": "",
             "button_link": ""
